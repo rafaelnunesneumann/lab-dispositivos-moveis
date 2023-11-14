@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.green,
       ),
       home: ContactListPage(),
-      debugShowCheckedModeBanner: false, 
+      debugShowCheckedModeBanner: false,
     );
   }
 }
@@ -26,12 +26,12 @@ class ContactListPage extends StatelessWidget {
     Contact(name: 'Emerson', phoneNumber: '998703291', image: 'assets/man.png'),
     Contact(name: 'Claudio', phoneNumber: '927690768', image: 'assets/man.png'),
     Contact(name: 'Julia', phoneNumber: '991204462', image: 'assets/woman.png'),
-    Contact(name: 'Renato', phoneNumber: '999440231', image: 'assets/man.png'),
+    Contact(name: 'Rafael', phoneNumber: '999440231', image: 'assets/man.png'),
     Contact(name: 'Carol', phoneNumber: '927481048', image: 'assets/woman.png'),
     Contact(name: 'Arthur', phoneNumber: '918673404', image: 'assets/man.png'),
     Contact(name: 'Lucas', phoneNumber: '998723653', image: 'assets/man.png'),
     Contact(
-        name: 'Larissa', phoneNumber: '947882365', image: 'assets/woman.png'),
+        name: 'Ariane', phoneNumber: '947882365', image: 'assets/woman.png'),
     Contact(
         name: 'Camila', phoneNumber: '932857163', image: 'assets/woman.png'),
     Contact(name: 'Juliano', phoneNumber: '940857126', image: 'assets/man.png'),
